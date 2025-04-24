@@ -1,23 +1,22 @@
 {
-    "name": "edition",
-    "description": "A clean, minimal newsletter theme for the Ghost publishing platform",
-    "version": "1.0.0",
+    "name": "ebe-dition",
+    "description": "A customized theme for Ghost, based on the official Edition theme",
+    "version": "0.1.0",
     "private": true,
     "engines": {
         "ghost": ">=5.0.0"
     },
     "license": "MIT",
     "author": {
-        "name": "Ghost Foundation",
-        "email": "hello@ghost.org",
-        "url": "https://ghost.org"
+        "name": "Tom Schildhauer",
+        "email": "kontakt@tomschildhauer.de",
+        "url": "https://tomschildhauer.de"
     },
     "keywords": [
         "ghost",
         "theme",
         "ghost-theme"
     ],
-    "docs": "https://edition.ghost.io/about/",
     "config": {
         "posts_per_page": 10,
         "image_sizes": {
